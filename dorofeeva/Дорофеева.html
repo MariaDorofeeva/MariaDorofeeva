@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<link rel="stylesheet" href="style.css">
+<title>Мария Дорофеева</title>
+<style>
+    img{
+        border-radius:50%;
+        align-content: center;
+        margin-left: 25%;
+        padding-bottom: 10px;
+    }
+</style>
+</head>
+<body>
+<h1>Южно-Уральский Государственный Университет</h1>
+<h1>Кафедра: Защита информации</h1>
+<h1>Студентка: Дорофеева Мария Алексеевна</h1>
+<hr align="center" width="90%" size="2" color="#006400" />
+<div width="90%">
+<div class="profile block" >
+    <img width="40%" src="avatar.jpg">
+    <div class="p1">Университет: <span class="answer">ЮУрГУ</span></div> 
+    <div class="p1">Факультет: <span class="answer">ВШЭКН</span></div> 
+    <div class="p1">Кафедра: <span class="answer">Защита информации</span></div>
+    <div class="p1">Имя: <span class="answer">Мария</span></div> 
+    <div class="p1">Дата рождения: <span class="answer">20.07.1999</span></div>
+    <div class="p1">Родной город: <span class="answer">Миасс</span></div>
+</div>
+<div class="block about">
+    <h2>Рождение</h2>   
+    <p>Я, Дорофеева Мария Алексеевна, родилась 20 июля 1999 года в городе Миасс.</p>
+    <h2>Учеба</h2>
+    <p>В 2006 году я начала учиться в Лицее №6. Там у меня, как и у всех детей, было много друзей и я очень весело проводила школьные годы. 
+        В 2017 году я закончила 11<sup>A</sup> класс. Я хорошо сдала ЕГЭ по профильной математике, русскому языку и информатике и решила поступать в Южно-Уральский Государственный Университет.
+        Я выбрала спецаильность "Информационная безопасность" и поступила на бюджет. Сейчас я учусь на 3 курсе.
+    
+    </p>
+    <h2>Хобби</h2>
+    <p>Когда мне было 4 года, я начала заниматься танцами и мне это очень понравилась. Я занималась танцами почти 15 лет, но после переезда в Челябинск мне пришлось бросить мое хобби. </p>
+
+</div>
+<div class="cl"></div>
+</div>
+<div class="foot" margin-top="20px">Сайт создан Дорофеевой Марией</div>
+</body>
+</html>

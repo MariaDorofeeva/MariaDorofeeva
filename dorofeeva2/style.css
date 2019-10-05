@@ -1,0 +1,130 @@
+body{
+    font-family: "Arial", sans-serif;
+}
+
+
+
+div{
+    padding-left: 60px;
+}
+
+.left{
+    float: left;
+    
+}
+
+.right{
+    float: right;
+    margin-right: 40px;
+}
+
+.first{
+    background-color: #013220;
+    color: white;
+    height: 20px;
+}
+
+.blog{
+    color: white;
+    background-color: #006B3C;
+    height: 100px;
+    line-height: 100px;
+}
+
+.green{
+    color: #006B3C;
+    font-weight: 600;
+}
+
+.hh{
+    font-size: 25px;
+    margin-right: 20px;
+    font-size: 35px;
+}
+
+.menu{
+    background-color: #71BC78;
+    height: 40px;
+    line-height: 40px;
+}
+
+.item{
+    width: 300px;
+    padding-right: 30px;
+}
+
+.spec{
+    margin-left: 40px;
+    border-left: #228B22 solid 2px;
+    padding: 5px 0px 5px 5px;
+}
+
+h1{
+    margin-bottom: 5px;
+}
+
+.date{
+    margin-top: 0px;
+}
+
+.foot{
+    height: 150px;
+    background-color: #013220;
+}
+
+.link{
+    margin-bottom: 10px;
+    padding-top: 25px;
+    color: #71BC78;
+}
+
+h4{
+    margin-top: 0;
+}
+
+.st1{
+    color: white;
+    float: left;
+    width: 30%;
+}
+
+.st2{
+    float: left;
+    color: white;
+    width: 30%;
+}
+
+.st3{
+    float: right;
+    padding-right: 60px;
+}
+
+.text{
+    width: 55%;
+    float: left;
+
+}
+
+.menu2{
+    float: right;
+    background-color: gray;
+    width: 20%;
+    height: 410px;
+    margin-right: 20%;
+    padding-top: 30px;
+
+}
+
+.qq{
+    clear: both;
+}
+
+.m1{
+    padding-left: 20px;
+    font-weight:bold
+}
+
+.m2{
+    margin-top:10px;
+    padding-left: 50px;
+}

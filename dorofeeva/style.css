@@ -7,12 +7,15 @@ body{
     font-family: "Arial";
 }
 
+.head1{
+    background-color: #CEFFD9;
+}
+
 h1{
     text-align: center;
     font-size: 20pt;
     font-family: "Arial";
     color: #006400;
-    background-color: #A1FFD0;
 }
 
 h2{
@@ -66,14 +69,11 @@ p{
     padding-left: 15px;
     border: 2px solid #006400;
 }
-.cl{
-    clear:none;
+.cc{
+    clear:both;
 }
 
 .foot{
     font-size: 12px;
     margin-right: 6%;
-    position: absolute;
-    top: 580px;
-    right: 5px;
 }

@@ -76,4 +76,6 @@ p{
 .foot{
     font-size: 12px;
     margin-right: 6%;
+    text-align: right;
+    margin-top: 30px;
 }

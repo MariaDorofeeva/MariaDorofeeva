@@ -1,6 +1,6 @@
 body{
     color: rgb(27, 119, 27);
-    background-color: #D2FFD2;
+    /*background-color: #D2FFD2;*/
     font-size: 14px;
     font-weight: 400;
     align: justify;
@@ -12,6 +12,7 @@ h1{
     font-size: 20pt;
     font-family: "Arial";
     color: #006400;
+    background-color: #A1FFD0;
 }
 
 h2{
